@@ -1,0 +1,70 @@
+{
+  "Projects": [
+  {
+"id":1,
+"title": "SaiTeja",
+"cover":"sai_teja",
+"bio": "Masters of science from university of michigan Flint",
+"album":[ 
+  {
+  "id":1,
+  "song": "Go blue"
+
+},
+{
+  "id":2,
+  "song": "Go with blue"
+},
+{
+  "id":3,
+  "song": "Go above blue"
+
+}
+]
+  },
+{
+  "id":1,
+  "title": "SaiTeja1",
+  "cover":"sai_teja1",
+  "bio": "Bachelors from JNTU Ananthapur",
+  "album":[ 
+      {
+      "aid":1,
+      "song": "Go blue"
+   
+  },
+  {
+      "aid":2,
+      "song": "Go with blue"
+  },
+  {
+      "aid":3,
+      "song": "Intermediate from Narayana Junior College"
+  
+  }
+  ]
+},
+{
+  "id":3,
+  "title": "SaiTeja2",
+  "cover":"sai_teja2",
+  "bio": "Masters of science from university of michigan Flint",
+  "album":[ 
+      {
+      "aid":1,
+      "song": "Go blue"
+   
+  },
+  {
+      "aid":2,
+      "song": "Go with blue"
+  },
+  {
+      "aid":3,
+      "song": "Go above blue"
+  
+  }
+  ]
+}
+]
+}
